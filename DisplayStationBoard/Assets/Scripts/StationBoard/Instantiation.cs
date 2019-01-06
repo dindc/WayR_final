@@ -1,3 +1,9 @@
+/* This is the version of Instatntiation.cs used in the final presentation. It's used
+*  in the scene without the marker recognition (Display_billboard_noVuforia.unity),
+*  and creates a floating Interface about 1.5 meters in front of the user with a fixed 
+*  world position.
+*  For the script using marker recognition, see InstantiationWithVuforia.cs.
+*/
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
